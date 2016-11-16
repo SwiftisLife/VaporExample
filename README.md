@@ -13,3 +13,6 @@ Join the welcoming community of fellow Vapor developers in [slack](http://vapor.
 ## 🔧 Compatibility
 
 This package has been tested on macOS and Ubuntu.
+
+## Test it out here:
+https://vaporexampleswift.herokuapp.com/view
